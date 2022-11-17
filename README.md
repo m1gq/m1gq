@@ -1,4 +1,4 @@
-## Greetings 👋, I'm Miguel. A Front End Developer.
+## Greetings 👋, I'm Miguel. A Front End Developer. [![GitHub m1gq](https://img.shields.io/github/followers/m1gq?label=follow&style=social)](https://github.com/m1gq)
 I like Coding, Building Software & Solving Problems.  
 
 ```javascript
@@ -23,8 +23,8 @@ const whoAmI = () => {
    location: "Venezuela, VE"
 }};
 ```
-[![GitHub m1gq](https://img.shields.io/github/followers/m1gq?label=follow&style=social)](https://github.com/m1gq)
-[![Linkedin: mdavidq](https://img.shields.io/badge/-mdavidq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdavidq/)]
+### Contact Me
+<a href="https://www.linkedin.com/in/mdavidq/">LinkedIn</a>
 
 
 <!---
